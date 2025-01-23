@@ -20,3 +20,11 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Um toque a mais no Webpack
 - Terminando a lista de produtos
 - Preparando o container
+
+### 23/01/2025
+- Implementando Module Federation
+- Entendendo Module Federation
+- Mais sobre Module Federation
+- Noções básicas sobre opções de configuração do Module federation
+- Preparando o modulo de carrinho
+- Integrando módulo Carrinho no container
