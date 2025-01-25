@@ -28,3 +28,13 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Noções básicas sobre opções de configuração do Module federation
 - Preparando o modulo de carrinho
 - Integrando módulo Carrinho no container
+
+### 25/01/2025
+- Usando Módulos Compartilhados
+- Carregando scripts de forma assíncrona
+- Controle de versão de módulo compartilhado
+- Carregamento Singleton
+- Contexto de execução de subaplicativos
+- Refatorando Produtos
+- Consumindo módulos remotos
+- Refatorando Carrinho
