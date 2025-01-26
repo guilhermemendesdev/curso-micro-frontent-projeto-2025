@@ -43,3 +43,9 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Requisitos da estrutura da aplicação
 - Instação das dependências
 - Configuração inicial do Webpack
+- Criando e mesclando configurações de desenvolvimento
+- Executando marketing isoladamente
+- Iniciando com o React
+- Componentes para Marketing
+- Adicionando Página de Preço e Home do Marketing
+- Montando o componente do aplicativo
