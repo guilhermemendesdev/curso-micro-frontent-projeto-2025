@@ -49,3 +49,9 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Componentes para Marketing
 - Adicionando Página de Preço e Home do Marketing
 - Montando o componente do aplicativo
+- Montando o Container
+- Integrando o Marketing com o Container
+- Qual a importância da função mount()
+- Integração Genérica
+- Lembrete sobre módulos compartilhados
+- Delegar seleção de módulos compartilhados
