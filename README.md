@@ -30,7 +30,6 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Integrando módulo Carrinho no container
 
 ### 25/01/2025
-- Usando Módulos Compartilhados
 - Carregando scripts de forma assíncrona
 - Controle de versão de módulo compartilhado
 - Carregamento Singleton
@@ -38,3 +37,9 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Refatorando Produtos
 - Consumindo módulos remotos
 - Refatorando Carrinho
+
+### 26/01/2025
+- Entendendo a nova aplicação
+- Requisitos da estrutura da aplicação
+- Instação das dependências
+- Configuração inicial do Webpack
