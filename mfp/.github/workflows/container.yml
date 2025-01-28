@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "packages/mfp/container/**"
+      - "packages/container/**"
 
 defaults:
   run:
