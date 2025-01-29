@@ -55,3 +55,21 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Integração Genérica
 - Lembrete sobre módulos compartilhados
 - Delegar seleção de módulos compartilhados
+
+### 27/01/2025
+- Requisitos em torno da implantação
+- O caminho para a produção
+- Configuração inicial do Git
+
+### 28/01/2025
+- Configuração do Webpack de produção para contêiner
+- Configuração do Webpack de produção para marketing
+- Compreendendo os pipelines de CI:CD
+- Testando o pipeline
+- Configurando o S3 Bucket
+- Criação de uma política de bucket
+- Configuração de distribuição do Cloudfront
+
+### 29/01/2025
+- Configurando Webpack da Dashboard
+- Configurando Pipeline da Dashboar e Marketing
