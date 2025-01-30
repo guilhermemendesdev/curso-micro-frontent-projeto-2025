@@ -77,3 +77,4 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 
 ### 30/01/2025
 - Um pouco mais da configuração do Cloudfront
+- Criando e Atribuindo Chaves de Acesso
