@@ -73,3 +73,7 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 ### 29/01/2025
 - Configurando Webpack da Dashboard
 - Configurando Pipeline da Dashboar e Marketing
+- Configuração da Distribuição do CloudFront
+
+### 30/01/2025
+- Um pouco mais da configuração do Cloudfront
