@@ -5,13 +5,13 @@ import Header from "./components/Header";
 
 export default () => {
     return (
-    <BrowserRouter>
-        <div>
+    <div>
+        <BrowserRouter>
             <Header>
                 <hr/>
                 <MarketingApp />
             </Header>
-        </div>    
-    </BrowserRouter>
+        </BrowserRouter>
+    </div>
     )
 }
