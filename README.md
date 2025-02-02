@@ -78,3 +78,12 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 ### 30/01/2025
 - Um pouco mais da configuração do Cloudfront
 - Criando e Atribuindo Chaves de Acesso
+
+### 31/01/2025
+- Criando Header Component
+- Problemas com CSS em Microfrontends
+- Técnicas de escopo CSS
+- Compreendendo CSS em bibliotecas JS
+
+### 02/02/2025
+- Requisitos inflexíveis em torno da navegação
