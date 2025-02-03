@@ -87,3 +87,13 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 
 ### 02/02/2025
 - Requisitos inflexíveis em torno da navegação
+
+### 03/02/2025
+- Examinando nossa configuração histórica atual
+- Usando Memory History
+- Comunicação entre Aplicativos
+- Comunicação por meio de retornos de chamada
+- Sincronizando History Objects
+- Executando Memory History isoladamente
+- Comunicação do contêiner para o marketing
+- Usando Browser History isoladamente
