@@ -97,3 +97,12 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Executando Memory History isoladamente
 - Comunicação do contêiner para o marketing
 - Usando Browser History isoladamente
+
+### 04/02/2025
+- Iniciando o projeto de autenticação
+- Adicionando formulários de login e inscrição
+- Um mergulho mais profundo no PublicPath
+- Integrando Auth ao Container
+- Adicionando estado inicial ao histórico da memória
+- Carregando subaplicativos lentamente (Lazy e Suspense)
+- Adicionando Loading Bar
