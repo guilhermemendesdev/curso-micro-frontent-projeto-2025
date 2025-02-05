@@ -106,3 +106,11 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Adicionando estado inicial ao histórico da memória
 - Carregando subaplicativos lentamente (Lazy e Suspense)
 - Adicionando Loading Bar
+
+### 05/02/2025
+- Notas importantes sobre autenticação
+- Estratégias de Implementação
+- Comunicação de alterações de autenticação
+- Comunicando o estado de autenticação
+- Permitindo Logout
+- Adicionando uma configuração de implantação de autenticação
