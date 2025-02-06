@@ -114,3 +114,10 @@ Este repositório faz parte de um compromisso pessoal de realizar commits diári
 - Comunicando o estado de autenticação
 - Permitindo Logout
 - Adicionando uma configuração de implantação de autenticação
+
+### 06/02/2025
+- Configuração inicial da Dashboard
+- Renderizando a Dashboard
+- Integração com o Contêiner
+- Deploy da Dashboard
+- Revisão sobre microfrontend
